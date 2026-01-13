@@ -1,6 +1,6 @@
 # Reconciliation Automation Toolkit
 
-A finance-focused Python toolkit that automates reconciliation between **Bank Statements**, **General Ledger (GL)**, and **Subledger** exports. It performs matching with **tolerance rules**, flags breaks, and generates an Excel reconciliation pack for audit-ready review.
+A finance focused Python toolkit that automates reconciliation between **Bank Statements**, **General Ledger (GL)**, and **Subledger** exports. It performs matching with **tolerance rules**, flags breaks, and generates an Excel reconciliation pack for audit ready review.
 
 ## Purpose
 Finance and audit teams often reconcile thousands of transactions across systems (bank vs GL vs subledger). Manual reconciliation is slow and inconsistent, especially when:
